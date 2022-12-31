@@ -24,7 +24,7 @@ const Footer = () => {
         </a>
       </ul>
       <p>Todos los derechos reservados.</p>
-      <p>Giela Rios©</p>
+      <p>Gisela Rios©</p>
     </footer>
   );
 };
